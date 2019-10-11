@@ -9,7 +9,7 @@ main() {
    [1, 1],
   [1, 1]
  ]));
-  unmix("hTsii  s aimex dpus rtni.g");
+  print(unmix("hTsii  s aimex dpus rtni.g"));
 }
 
 // Challenge 1 - Purge and Organize
